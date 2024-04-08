@@ -10,15 +10,18 @@ As a Ph.D. candidate in anomaly object detection at Osaka University, I have a s
 
 - **2021 – 2024 (Expected Aug 2024)**  
   **Ph.D. in Information Systems Engineering**, Osaka University  
-  Thesis: *Anomaly Objects Detection from Encoder-Decoder Vision Caption Technique*
+  Thesis: *Adaptive Shifting Attention Improved Recognition of Disaster-Affected Regions with Image Captioning*
+  This research discusses a new technique for detecting damage in disaster situations, specifically landslides. The technique combines a transformer model for object detection and a vision encoder-decoder for image captioning. By using language to detect abnormal scenes rather than just visual features, the proposed method can accurately predict the extent of damage in the affected region. These findings suggest that the proposed technique could be an effective tool for evaluating the scope of damage after a disaster, which could help the recovery process.
 
 - **2017 – 2020**  
   **M.Eng. in Water Resources Engineering**, Chulalongkorn University  
   Thesis: *Impact Assessment of Land Use Change and Rainfall Variability On Peak Flows in Upper Nan River Basin*
+  The upper Nan River basin has high rainfall and the change of land use which made flooding in this area. We used statistics to analyze the rainfall from climate change. The seasonal rainfall of stations shows that the null hypothesis of rainfall data has no trend and cannot be rejected at the confidence level of 95%, as well as the significant change in land use. The rainfall-runoff-inundation mathematical model implemented in MATLAB and Python was used for predicting and analyzing the cause of flooding. The result showed that the rainfall variation effect flooding phenomena in this region more than land use change.
 
 - **2013 – 2017**  
   **B.Eng. in Engineering**, Chulalongkorn University  
   Thesis: *The Preliminary Assessment of The Landslide Risk Area*
+  Preliminary assessment in a landslide at Mae-Hong-Sorn province, Thailand. We used the physical model based on slope stability in soil and sand over the region. We calibrated and validated the risk map data from DDPM with rainfall and land use data in the study area. The result shows that the preliminary landslide risk map from the model performs well.
 
 ## Employment History
 
@@ -29,7 +32,7 @@ As a Ph.D. candidate in anomaly object detection at Osaka University, I have a s
   **Business Mentor**, Chulalongkorn School of Integrated Innovation, Bangkok, Thailand
 
 - **Apr 2023 – Feb 2024**  
-  **College Lecturer**, National Institute of Technology, Akashi College, Kobe, Japan
+  **Special Assistant Professor**, National Institute of Technology, Akashi College, Kobe, Japan
 
 - **Jan 2022 – Jan 2024**  
   **Research Assistant**, Osaka University, Osaka, Japan
