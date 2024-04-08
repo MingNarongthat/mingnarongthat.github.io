@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: ""
 ---
 # Narongthat Thanyawet, Ph.D. Candidate
