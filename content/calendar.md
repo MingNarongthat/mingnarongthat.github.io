@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 Title: "My Schedule"
 ---
 
