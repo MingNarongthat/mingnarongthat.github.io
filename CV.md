@@ -60,32 +60,41 @@ As a Ph.D. candidate in anomaly object detection at Osaka University, I have a s
 
 ### Conference Proceedings
 
-1. N. Thanyawet et al., "Detective networks: Enhancing disaster recognition in images through attention shifting using optimal masking," in The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), IEEE, To be in 2024.
+1. N. Thanyawet, P. Ratsamee, Y. Uranishi, M. Kobayashi, and H. Takemura, "Detective networks: Enhancing disaster recognition in images through attention shifting using optimal masking," in The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), IEEE, To be in 2024.
+2. N. Thanyawet, P. Ratsamee, Y. Uranishi, and H. Takemura, "Abnormal scene classification using image captioning technique: A landslide case study," in 2023 13th International Conference on Pattern Recognition Systems (ICPRS), IEEE, 2023.
+3. T. Boonchob, N. Tuaycharoen, S. Limpeeticharoenchot, and N. Thanyawet, “Job-candidate classifying and ranking system-based machine learning method,” in 2022 26th International Computer Science and Engineering Conference (ICSEC), IEEE, 2022, pp. 94–99.
+4. L. Bunyaviroch and N. Thanyawet, “Comparison of thresholding methods in image processing for uterus ultrasound imagescomparison,” in Proceedings of RSU International Research Conference (2021), 2021, pp. 469–476.
+5. L. Bunyaviroch and N. Thanyawet, “Review on ai using image processing in the medical field,” in Proceeding of The Regional Conference on Graduate Research, Sripatum University Press, 2021.
+6. N. Thanyawet, P. Ruangrassamee, and A. Sriariyawat, “Impact assessment of rainfall variability on peak flows in upper nan river basin, thailand,” in AGU Fall Meeting Abstracts, vol. 2019, 2019, H33M–2156.
 
 ## Skills
 
-- **Languages**: English (Fluent), Thai (Native), Japanese (Conversational)
+- **Languages**: English, Thai, Japanese
 - **Coding**: Python, MATLAB, SQL
 - **Databases**: MySQL, PostgreSQL, SQLite
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Computer Vision, Natural Language Processing, Transformers
 - **Web Development**: Basic frontend, Django, Flask, Apache Web Server
-- **Misc.**: Academic research, Teaching, Training, Consultation
+- **Misc**: Academic research, Teaching, Training, Consultation
 
 ## Miscellaneous Experience
 
 ### Awards and Achievements
 
-- 2019: MEA Hackathon, 6th prize at Metropolitan Electricity Authority (MEA).
-- 2017: Startup Thailand League, Winning award at National Innovation Agency (NIA).
+- 2019: MEA Hackathon, 6th prize at Metropolitan Electricity Authority (MEA)
+- 2017: Startup Thailand League, Winning award at National Innovation Agency (NIA)
 
 ### Certification
 
-- 2023: Certified of Completion Microsoft AI Skills Challenge by Microsoft.
+- 2023: Certified of Completion Microsoft AI Skills Challenge by Microsoft
+- 2020: Certified Building Recommendation Engines by DataCamp
+- 2020: Certified AWS Fundamentals: Going Cloud-Native. Awarded by Coursera.
 
 ## Volunteering
 
-- Apr 2023 - Mar 2024: President, Thai Student’s Association In Japan under the Royal Patronage (TSAJ).
+- Apr 2023 - Mar 2024: President, Thai Student’s Association In Japan under the Royal Patronage (TSAJ)
+- Aug 2022 - Jan 2024: Guest Advisor, The Department of Computer Engineering, Chulalongkorn University
 
 ## References
 
 - **Prof. Haruo Takemura**, Professor, The Department of Information Systems Engineering, Osaka University, [takemura@ime.cmc.osaka-u.ac.jp](mailto:takemura@ime.cmc.osaka-u.ac.jp)
+- **Dr. Ronnakorn Vaiyawuth**, Lecturer, The Department of Integrated Innovation, Chulalongkorn University, [ronnakorn.v@chula.ac.th](mailto:ronnakorn.v@chula.ac.th)
