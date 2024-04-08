@@ -1,3 +1,7 @@
+---
+layout: page
+title: ""
+---
 # Narongthat Thanyawet, Ph.D. Candidate
 
 - Email: [narongthat.t@outlook.co.th](mailto:narongthat.t@outlook.co.th)
