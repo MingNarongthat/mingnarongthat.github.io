@@ -8,13 +8,13 @@ title: ""
 - LinkedIn: [narongthat-thanyawet](http://www.linkedin.com/in/narongthat-thanyawet-2a301619a/)
 - GitHub: [MingNarongthat](https://github.com/MingNarongthat)
 
-As a Ph.D. in anomaly object detection at Osaka University, I have a strong foundation and an extensive skill set in data analysis and machine learning, especially in the computer vision field. My academic background and experience in various fields have equipped me with a well-rounded perspective on technology's importance and its applications in solving real-world problems.
+As a Ph.D. in anomaly object detection at Osaka University, I have a strong foundation and an extensive skill set in data analysis and machine learning, especially in the computer vision field. My academic background and experience in various fields have equipped me with a well-rounded perspective on technology's importance and its applications in solving real-world problems. Currently, I work as a lecturer at Chulalongkorn School of Integrated Innovation ([CSII](http://www.linkedin.com/in/narongthat-thanyawet-2a301619a/)).
 
 ## Education
 
-- **2021 – 2024 (Expected Aug 2024)**  
+- **2021 – 2024 (Dec 2024)**  
   **Ph.D. in Information Systems Engineering**, Osaka University  
-  Thesis: *Adaptive Shifting Attention Improved Recognition of Disaster-Affected Regions with Image Captioning*
+  Thesis: *Disaster Recognition Through Image Captioning Features and Shifted Attention*
   This research discusses a new technique for detecting damage in disaster situations, specifically landslides. The technique combines a transformer model for object detection and a vision encoder-decoder for image captioning. By using language to detect abnormal scenes rather than just visual features, the proposed method can accurately predict the extent of damage in the affected region. These findings suggest that the proposed technique could be an effective tool for evaluating the scope of damage after a disaster, which could help the recovery process.
 
 - **2017 – 2020**  
@@ -29,7 +29,19 @@ As a Ph.D. in anomaly object detection at Osaka University, I have a strong foun
 
 ## Employment History
 
-- **Jul 2021 – Present**  
+- **May 2025 - Present**
+  **Gifted Faculty Member**, Chulalongkorn School of Integrated Innovation (CSII), Bangkok, Thailand
+
+- **May 2025 - Present**
+  **Deputy Director of CSII Launchpad**, Chulalongkorn School of Integrated Innovation (CSII), Bangkok, Thailand
+  
+- **May 2025 - Present**
+  **Director of Information Technology and Co-Founder**, Kuro Haeksagon co., ltd., Bangkok, Thailand
+
+- **Sep 2024 - Apr 2025**
+  **Head of AI Solutions**, STelligence co., ltd., Bangkok, Thailand
+  
+- **Jul 2021 – Aug 2024**  
   **Automation Manager and AI & Analytics Manager**, STelligence co., ltd., Bangkok, Thailand
 
 - **Jan 2022 – Present**  
@@ -63,23 +75,25 @@ As a Ph.D. in anomaly object detection at Osaka University, I have a strong foun
 
 ### Journal Articles
 
-1. N. Thanyawet, P. Ratsamee, Y. Uranishi, M. Kobayashi, and H. Takemura, "Identifying disaster regions in images through attention shifting with a retargeting network," IEEE Access, To be 2024.
+1. Thanyawet, N., Ratsamee, P., Uranishi, Y., Kobayashi, M., & Takemura, H. (2024). Identifying Disaster Regions in Images Through Attention Shifting With a Retarget Network. IEEE Access.
+2. Pakoksung, K., Thanyawet, N., Inseeyong, N., Xu, M., & Chuenchum, P. Evaluation of Gpu Acceleration on the Rainfall-Runoff-Inundation Model in the Nan River Basin, Thailand.
 
 ### Conference Proceedings
 
-1. N. Thanyawet, P. Ratsamee, Y. Uranishi, M. Kobayashi, and H. Takemura, "Detective networks: Enhancing disaster recognition in images through attention shifting using optimal masking," in The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), IEEE, To be in 2024.
-2. N. Thanyawet, P. Ratsamee, Y. Uranishi, and H. Takemura, "Abnormal scene classification using image captioning technique: A landslide case study," in 2023 13th International Conference on Pattern Recognition Systems (ICPRS), IEEE, 2023.
-3. T. Boonchob, N. Tuaycharoen, S. Limpeeticharoenchot, and N. Thanyawet, “Job-candidate classifying and ranking system-based machine learning method,” in 2022 26th International Computer Science and Engineering Conference (ICSEC), IEEE, 2022, pp. 94–99.
-4. L. Bunyaviroch and N. Thanyawet, “Comparison of thresholding methods in image processing for uterus ultrasound imagescomparison,” in Proceedings of RSU International Research Conference (2021), 2021, pp. 469–476.
-5. L. Bunyaviroch and N. Thanyawet, “Review on ai using image processing in the medical field,” in Proceeding of The Regional Conference on Graduate Research, Sripatum University Press, 2021.
-6. N. Thanyawet, P. Ruangrassamee, and A. Sriariyawat, “Impact assessment of rainfall variability on peak flows in upper nan river basin, thailand,” in AGU Fall Meeting Abstracts, vol. 2019, 2019, H33M–2156.
+1. Thanyawet, N., Ratsamee, P., Uranishi, Y., & Takemura, H. (2025, February). Detective Networks: Enhancing Disaster Recognition in Images Through Attention Shifting Using Optimal Masking. In 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (pp. 8734-8743). IEEE.
+2. Thanyawet, N., Ratsamee, P., Uranishi, Y., & Takemura, H. (2023, July). Abnormal Scene Classification using Image Captioning Technique: A Landslide Case Study. In 2023 IEEE 13th International Conference on Pattern Recognition Systems (ICPRS) (pp. 1-7). IEEE.
+3. Boonchob, T., Tuaycharoen, N., Limpeeticharoenchot, S., & Thanyawet, N. (2022, December). Job-Candidate Classifying and Ranking System-Based Machine Learning Method. In 2022 26th International Computer Science and Engineering Conference (ICSEC) (pp. 94-99). IEEE.
+4. Bunyaviorch, L., & Thanyawet, N. (2021). Comparison of Thresholding Methods in Image Processing for Uterus Ultrasound Images. In Proceedings of the RSU International Research Conference (pp. 469-476).
+5. Bunyaviroch, L., & Thanyawet, N. Review on AI Using Image Processing in The Medical Field.
+6. Thanyawet, N., Ruangrassamee, P., & Sriariyawat, A. (2019, December). Impact Assessment of Rainfall Variability on Peak Flows in Upper Nan River Basin, Thailand. In AGU Fall Meeting Abstracts (Vol. 2019, pp. H33M-2156).
+7. Thanyawet, N., & Ruangrasamee, P. Assessment of near-real-time satellite-based precipitation over Thailand.
 
 ## Skills
 
 - **Languages**: English, Thai, Japanese
-- **Coding**: Python, MATLAB, SQL
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Computer Vision, Natural Language Processing, Transformers
+- **Coding**: Python, MATLAB, SQL, Golang, TypeSctipt, JavaScript
+- **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Computer Vision, Natural Language Processing, Transformers, Genrerative AI
 - **Web Development**: Basic frontend, Django, Flask, Apache Web Server
 - **Misc**: Academic research, Teaching, Training, Consultation
 
@@ -92,6 +106,7 @@ As a Ph.D. in anomaly object detection at Osaka University, I have a strong foun
 
 ### Certification
 
+- 2024: Detect Manufacturing Defects using Visual Inspection AI Skill Badge Google
 - 2023: Certified of Completion Microsoft AI Skills Challenge by Microsoft
 - 2020: Certified Building Recommendation Engines by DataCamp
 - 2020: Certified AWS Fundamentals: Going Cloud-Native. Awarded by Coursera.
