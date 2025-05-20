@@ -22,9 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "calendar.md", title: "Calendar"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:narongthat.t@outlook.co.th"}
+  - {title: Mail, icon: envelope, url: "mailto:narongthat.t@chula.ac.th"}
   - {title: Github, icon: github, url: "https://github.com/MingNarongthat"}
-  - {title: Facebook, icon: facebook-square, url: "https://www.facebook.com/ming.narongthat/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
