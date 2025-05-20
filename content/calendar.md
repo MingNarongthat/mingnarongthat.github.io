@@ -3,4 +3,4 @@ layout: default
 Title: "My Schedule"
 ---
 
-{% include embed.html url="https://outlook.office365.com/calendar/published/ff7d810cccbc43baba01da7856ec7aa3@stelligence.com/af970f33f32744a3adda9c46bd8bbc4217491238278946176561/calendar.html" %}
+{% include embed.html url="https://outlook.office365.com/owa/calendar/e84e462bd985493b8465f77662962a0e@chula.ac.th/38dfd0f36dab47d2b657a061718b013a2492056472650491029/calendar.html" %}
