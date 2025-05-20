@@ -12,7 +12,7 @@ As a Ph.D. in anomaly object detection at Osaka University, I have a strong foun
 
 ## Education
 
-- **2021 – 2024 (Dec 2024)**  
+- **2021 – 2024**  
   **Ph.D. in Information Systems Engineering**, Osaka University  
   Thesis: *Disaster Recognition Through Image Captioning Features and Shifted Attention*
   This research discusses a new technique for detecting damage in disaster situations, specifically landslides. The technique combines a transformer model for object detection and a vision encoder-decoder for image captioning. By using language to detect abnormal scenes rather than just visual features, the proposed method can accurately predict the extent of damage in the affected region. These findings suggest that the proposed technique could be an effective tool for evaluating the scope of damage after a disaster, which could help the recovery process.
