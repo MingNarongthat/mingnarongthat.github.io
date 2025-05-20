@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-# Narongthat Thanyawet, Ph.D. Candidate
+# Narongthat Thanyawet, Ph.D.
 
 - Email: [narongthat.t@chula.ac.th](mailto:narongthat.t@chula.ac.th)
 - LinkedIn: [narongthat-thanyawet](http://www.linkedin.com/in/narongthat-thanyawet-2a301619a/)
