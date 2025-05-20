@@ -4,7 +4,7 @@ title: ""
 ---
 # Narongthat Thanyawet, Ph.D. Candidate
 
-- Email: [narongthat.t@outlook.co.th](mailto:narongthat.t@chula.ac.th)
+- Email: [narongthat.t@chula.ac.th](mailto:narongthat.t@chula.ac.th)
 - LinkedIn: [narongthat-thanyawet](http://www.linkedin.com/in/narongthat-thanyawet-2a301619a/)
 - GitHub: [MingNarongthat](https://github.com/MingNarongthat)
 
